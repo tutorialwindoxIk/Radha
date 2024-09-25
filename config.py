@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@UTTAM470")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@alone_somu6")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "BABY_MUSIC09_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "ll_SOMU_xd_ll_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+BOT_NAME = getenv("BOT_NAME" , "SOMUXD")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾")
+ASSUSERNAME = getenv("ASSUSERNAME" , "SOMUASSISTANT")
 # ---------------------------------------------------------
 
 
