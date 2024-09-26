@@ -7,17 +7,17 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """**
-✪ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ╼⃝𖠁 𝐁ʌʙʏ ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾ ʙᴏᴛ ✪
+✪ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ 𝐒𝐨𝐦𝐮 ꭙ𝙳ﮩ٨ـﮩﮩ٨ـ♫  ʙᴏᴛ ✪
  
- ➲ ʙsᴅᴋ ʀᴇᴘᴏ ʟᴇɢᴀ ◉‿◉ ✰
+ ➲ ʙᴇᴛᴀ ʀᴇᴘᴏ ʟᴇɢᴀ ◉‿◉ ✰
  
- ➲ ᴘᴇʜʟᴇ ᴜᴛᴛᴀᴍ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟ ✰
+ ➲ ᴘᴇʜʟᴇ  ʜᴀʀᴇ ᴋʀɪsʜɴᴀ ʙᴏʟᴏ ʙᴇᴛᴀ ✰
  
  ➲ ᴄʜᴜᴘ ᴄʜᴜᴘ ʙᴏᴛ ʟᴇᴋᴇ ɴɪᴋᴀʟ ✰
  
  ➲ ʀᴇᴘᴏs ᴛᴏ ɴᴀʜɪ ᴍɪʟᴇɢᴀ ʙᴇᴛᴀ ⊂◉‿◉ ✰
  
- ➲ ᴀɢʀ ᴄʜᴀʜɪʏᴇ ᴛᴏ ᴜᴛᴛᴀᴍ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟɴᴀ ᴘᴀᴅᴇɢᴀ ✰
+ ➲ ᴀɢʀ ᴄʜᴀʜɪʏᴇ ʜᴀʀᴇ ᴋʀɪsʜɴᴀ ʙᴏʟɴᴀ ᴘᴀᴅᴇɢᴀ ✰
  
  ► ʀᴀᴅʜᴇ ʀᴀᴅʜᴇ ฅ( ̳• ◡ • ̳)ฅ
 **"""
@@ -32,11 +32,11 @@ async def start(_, msg):
           InlineKeyboardButton("•ᴀᴅᴅ ᴍᴇ•", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("•sᴜᴘᴘᴏʀᴛ•", url="https://t.me/+j6FO8pK8IIkxZDU1"),
-          InlineKeyboardButton("•ᴏᴡɴᴇʀ•", url="https://t.me/UTTAM470"),
+          InlineKeyboardButton("•sᴜᴘᴘᴏʀᴛ•", url="https://t.me/somueditingzone"),
+          InlineKeyboardButton("•ᴏᴡɴᴇʀ•", url="https://t.me/alone_somu6"),
           ],
                [
-                InlineKeyboardButton("•ᴜᴘᴅᴀᴛᴇs•", url="https://t.me/BABY09_WORLD"),
+                InlineKeyboardButton("•ᴜᴘᴅᴀᴛᴇs•", url="https://t.me/somueditingzone"),
 
 ],
 [
